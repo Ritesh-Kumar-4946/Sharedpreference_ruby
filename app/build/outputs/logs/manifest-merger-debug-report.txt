@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:9:5-47:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ritesh/.android/build-cache/1fddc16dd017ac6eaa30cae7c244622c465d2f4b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/ritesh/.android/build-cache/88de6899fb6a4a369f47c4d313d58181bbff788b/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/ritesh/.android/build-cache/7a0ade242a4d6e3519ed292b7863fa36a3eedd13/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/ritesh/.android/build-cache/d5e71f23cafcd64194555c7d40bd42d267a73cb3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/ritesh/.android/build-cache/eb68920754b561959ca306e09b341f95257eb8a3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/ritesh/.android/build-cache/343a13e9d8abe6d8e5739bc5cf0227b5d0bd4351/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/ritesh/.android/build-cache/e9cca141aa10c63235f284275a74c2e10e1cd045/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/ritesh/.android/build-cache/816ffdcab1d36923f4fde8fd0af441b72f288bb1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/ritesh/.android/build-cache/5ad965e21052c07361269283da0916fadcfa1a5e/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:12:9-41
+	android:allowBackup
+		ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:11:9-38
+	android:theme
+		ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:13:9-39
+activity#com.robi.sharedpreference.SplashActivity
+ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:14:9-24:20
+	android:screenOrientation
+		ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:18:13-49
+	android:label
+		ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:17:13-45
+	android:configChanges
+		ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:15:13-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:22:27-74
+activity#com.robi.sharedpreference.Login
+ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:25:9-29:20
+	android:screenOrientation
+		ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:28:13-49
+	android:configChanges
+		ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:27:13-63
+	android:name
+		ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:26:13-59
+activity#com.robi.sharedpreference.Registration
+ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:30:9-34:20
+	android:screenOrientation
+		ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:33:13-49
+	android:configChanges
+		ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:31:13-66
+activity#com.robi.sharedpreference.LogoutActivity
+ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:35:9-39:20
+	android:screenOrientation
+		ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:38:13-49
+	android:configChanges
+		ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:37:13-63
+	android:name
+		ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:36:13-68
+activity#com.robi.sharedpreference.Login_and_Registration
+ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:42:12-46:20
+	android:screenOrientation
+		ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:45:13-49
+	android:configChanges
+		ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:44:13-63
+	android:name
+		ADDED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml:43:13-76
+uses-sdk
+INJECTED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ritesh/.android/build-cache/1fddc16dd017ac6eaa30cae7c244622c465d2f4b/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/ritesh/.android/build-cache/88de6899fb6a4a369f47c4d313d58181bbff788b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/ritesh/.android/build-cache/7a0ade242a4d6e3519ed292b7863fa36a3eedd13/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/ritesh/.android/build-cache/d5e71f23cafcd64194555c7d40bd42d267a73cb3/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/ritesh/.android/build-cache/eb68920754b561959ca306e09b341f95257eb8a3/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/ritesh/.android/build-cache/343a13e9d8abe6d8e5739bc5cf0227b5d0bd4351/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/ritesh/.android/build-cache/e9cca141aa10c63235f284275a74c2e10e1cd045/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/ritesh/.android/build-cache/816ffdcab1d36923f4fde8fd0af441b72f288bb1/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/ritesh/.android/build-cache/5ad965e21052c07361269283da0916fadcfa1a5e/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ritesh/.android/build-cache/1fddc16dd017ac6eaa30cae7c244622c465d2f4b/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ritesh/.android/build-cache/1fddc16dd017ac6eaa30cae7c244622c465d2f4b/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/ritesh/.android/build-cache/88de6899fb6a4a369f47c4d313d58181bbff788b/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/ritesh/.android/build-cache/7a0ade242a4d6e3519ed292b7863fa36a3eedd13/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/ritesh/.android/build-cache/d5e71f23cafcd64194555c7d40bd42d267a73cb3/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/ritesh/.android/build-cache/eb68920754b561959ca306e09b341f95257eb8a3/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/ritesh/.android/build-cache/343a13e9d8abe6d8e5739bc5cf0227b5d0bd4351/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/ritesh/.android/build-cache/e9cca141aa10c63235f284275a74c2e10e1cd045/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/ritesh/.android/build-cache/816ffdcab1d36923f4fde8fd0af441b72f288bb1/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/ritesh/.android/build-cache/5ad965e21052c07361269283da0916fadcfa1a5e/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ritesh/.android/build-cache/1fddc16dd017ac6eaa30cae7c244622c465d2f4b/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/ritesh/.android/build-cache/1fddc16dd017ac6eaa30cae7c244622c465d2f4b/output/AndroidManifest.xml:26:9-47

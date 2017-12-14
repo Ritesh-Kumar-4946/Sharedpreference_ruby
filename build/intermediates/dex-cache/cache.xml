@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/5ad965e21052c07361269283da0916fadcfa1a5e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/build/intermediates/pre-dexed/debug/classes_2419a2550af6760b565c26efa2a28eaebea1e7f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/7a0ade242a4d6e3519ed292b7863fa36a3eedd13/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/build/intermediates/pre-dexed/debug/classes_2bbb04710e8391159b42a0af5411c0c2a9b8bac9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_83e5424d7c6303c3c9afd2440fd6a4036ca6516f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/1fddc16dd017ac6eaa30cae7c244622c465d2f4b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/build/intermediates/pre-dexed/debug/classes_f4c2cf035f695a22e56cd0c4aaf9a830c438c08c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/88de6899fb6a4a369f47c4d313d58181bbff788b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/build/intermediates/pre-dexed/debug/classes_bdaa81ced1001a1cb2123921cf259babafebb2b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/d5e71f23cafcd64194555c7d40bd42d267a73cb3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/build/intermediates/pre-dexed/debug/classes_97cfc51496ae1726eed898c37b95ccb813f3a24f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/e9cca141aa10c63235f284275a74c2e10e1cd045/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/build/intermediates/pre-dexed/debug/classes_b0060ca819db163b9fd2a87168827d7b0d115cfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/816ffdcab1d36923f4fde8fd0af441b72f288bb1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/build/intermediates/pre-dexed/debug/classes_989e08274b8e720fe4eedb763baac3ce00dc181d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/eb68920754b561959ca306e09b341f95257eb8a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/build/intermediates/pre-dexed/debug/classes_77012e5d96534aa9cb35941e5afbf4263c417fdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/343a13e9d8abe6d8e5739bc5cf0227b5d0bd4351/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/build/intermediates/pre-dexed/debug/classes_73fb2d160ef9689de214d6b053a21fab3b63455b.jar" />
+    </item>
+
+</items>

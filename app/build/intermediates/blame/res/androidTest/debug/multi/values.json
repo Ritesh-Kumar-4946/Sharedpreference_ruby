@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/ritesh/AndroidStudioProjects/Sqlite/SHARED PREFERENCE (Best understanding)/Sharedpreference1/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/ritesh/.android/build-cache/11c20aea17c3d87d78f987c60da8af20a4dcffce/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]
